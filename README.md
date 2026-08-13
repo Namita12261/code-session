@@ -24,3 +24,6 @@ I want to learn as much as possible, strengthen my programming fundamentals, and
 This repository represents my journey from **learning the basics to becoming internship-ready**.
 
 > **Code every day. Learn every day. Improve every day.** 💻✨
+
+If you want to cheer me up, make sure to **follow my journey, support me, and watch me improve every day!** 🚀💻
+
